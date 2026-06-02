@@ -17,16 +17,6 @@ While hackathons often require picking up new tools on the fly, repositories in 
 
 ---
 
-### 🏆 Featured Hackathon & Competition Builds
-
-| Project | Description | Competition / Event | Status |
-| :--- | :--- | :--- | :--- |
-| **[TradeTell](link)** | AI-powered trading assistant. | *IMC Prosperity 3* | 🏁 Completed (Top 17%) |
-| **[ClearHash](link)** | CLI utility for cryptographic verification. | *[Hackathon Name]* | 🏁 Completed |
-| **[Project Name](link)** | [Short, 1-2 sentence description of what the project does] | *[Hackathon Name]* | 🚧 In Progress |
-
----
-
 ### 📈 Competition Philosophy
 
 1.  **Ship Fast:** Prioritize working features over perfect code.
