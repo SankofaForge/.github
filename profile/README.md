@@ -11,17 +11,19 @@ For main infrastructure, deployments, and production environments, visit the pri
 ### 💻 Core Tech Stack
 
 While hackathons often require picking up new tools on the fly, repositories in this organization are primarily built using:
-*   **Systems & Backend:** OCaml, Rust, Go, Python
-*   **Frontend & 3D:** React, Three.js
-*   **Infrastructure:** Vercel, Supabase
+
+* **Systems & Backend:** OCaml, Rust, Go, Python
+* **Frontend & 3D:** React, Three.js
+* **Infrastructure:** Vercel, Supabase
 
 ---
 
 ### 📈 Competition Philosophy
 
-1.  **Ship Fast:** Prioritize working features over perfect code.
-2.  **Document Well:** Every repository contains a detailed run-book and architecture overview.
-3.  **Learn Constantly:** Experimenting with systems-level languages and functional programming in high-pressure environments.
+1. **Ship Fast:** Prioritize working features over perfect code.
+2. **Document Well:** Every repository contains a detailed run-book and architecture overview.
+3. **Learn Constantly:** Experimenting with systems-level languages and functional programming in high-pressure environments.
 
 ---
+
 *If you are a Devpost judge reviewing a submission, please refer to the specific repository's `README.md` for local build instructions and demo links.*
